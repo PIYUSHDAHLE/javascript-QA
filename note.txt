@@ -1,0 +1,201 @@
+1. JavaScript Basics
+Syntax and Structure
+Variables (var, let, const)
+Data Types (String, Number, Boolean, Null, Undefined, Symbol, BigInt)
+Operators:
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Assignment Operators
+Ternary Operator
+Comments (//, /* */)
+Template Literals (backticks for string interpolation)
+
+2. Control Structures
+Conditionals (if, else if, else, switch)
+Loops:
+for, while, do...while
+for...in, for...of
+break and continue
+
+3. Functions
+Function Declaration
+Function Expression
+Arrow Functions
+Higher-Order Functions
+Callback Functions
+Anonymous Functions
+Rest Parameters (...args)
+Default Parameters
+Closures
+IIFE (Immediately Invoked Function Expression)
+
+4. Objects
+Object Literals
+Object Properties and Methods
+this Keyword
+Object Constructors
+Prototype and Prototypal Inheritance
+Object Methods:
+Object.keys(), Object.values(), Object.entries()
+Object.assign(), Object.create()
+Object.freeze(), Object.seal()
+Object Destructuring
+this and Context Binding (bind, call, apply)
+
+5. Arrays
+Array Methods:
+push(), pop(), shift(), unshift()
+map(), filter(), reduce()
+forEach(), some(), every()
+find(), findIndex()
+slice(), splice()
+concat(), join()
+sort(), reverse()
+includes(), indexOf()
+Array Destructuring
+Spread Operator (...)
+Rest Operator (...)
+
+6. DOM Manipulation
+Selecting Elements (getElementById, querySelector, etc.)
+Creating and Modifying Elements (createElement, innerHTML, appendChild)
+Event Handling:
+addEventListener(), Event Delegation
+Event Bubbling and Capturing
+Mouse and Keyboard Events
+Form Events
+DOM Traversal:
+parentNode, childNodes, siblings
+
+7. Asynchronous JavaScript
+Callbacks
+Promises (.then(), .catch(), .finally())
+async and await
+setTimeout(), setInterval()
+AJAX (Asynchronous JavaScript and XML)
+Fetch API
+XMLHTTPRequest
+Web APIs (Geolocation, LocalStorage, SessionStorage, etc.)
+
+8. Error Handling
+try, catch, finally
+Custom Error Messages (throw)
+Handling Errors in Asynchronous Code
+
+9. ES6+ Features
+Block-Scoped Declarations (let, const)
+Arrow Functions (=>)
+Default Parameters
+Template Literals
+Destructuring (Arrays and Objects)
+Spread and Rest Operators (...)
+for...of Loop
+Enhanced Object Literals
+Map and Set Data Structures
+Symbols
+Modules:
+import and export (Named and Default Exports)
+Classes and extends for Inheritance
+
+10. Object-Oriented Programming (OOP)
+Classes:
+Class Declaration
+Class Constructors
+Methods in Classes
+Inheritance (extends, super())
+Prototypes and Prototypal Inheritance
+Encapsulation, Polymorphism, Abstraction
+
+11. Advanced Functions
+Higher-Order Functions
+Pure Functions
+Recursion
+Currying
+Memoization
+Function Composition
+Function Binding (bind(), call(), apply())
+
+12. Closures
+Lexical Scoping
+Practical Uses of Closures (e.g., Encapsulation, Memoization)
+
+13. Modules
+ES6 Modules (import, export)
+CommonJS Modules (Node.js environment)
+
+14. Event Loop
+Call Stack
+Event Queue
+Microtask and Macrotask Queue
+Understanding Asynchronous JavaScript Execution (Single-threaded nature)
+
+15. Regular Expressions (RegEx)
+Syntax and Patterns
+Using RegExp Object
+String Methods with Regex (match, search, replace, split)
+Flags (g, i, m)
+
+16. Memory Management
+Garbage Collection
+Stack vs Heap Memory
+Memory Leaks
+
+17. JavaScript Design Patterns
+Singleton Pattern
+Factory Pattern
+Observer Pattern
+Module Pattern
+Revealing Module Pattern
+MVC (Model-View-Controller)
+
+18. Browser and BOM
+Window Object (window.alert, window.location, window.history)
+LocalStorage and SessionStorage
+Cookies
+Navigator Object (Browser Information)
+
+19. Web APIs
+Geolocation API
+Fetch API
+Web Storage API (LocalStorage, SessionStorage)
+Service Workers and Progressive Web Apps (PWA)
+
+20. JavaScript Tools
+Babel: JavaScript transpiler for ES6+ to ES5
+Webpack: Module bundler
+ESLint: Code quality tool
+NPM: Node package manager
+Yarn: Package manager
+
+21. Debugging and Testing
+console.log(), console.error(), console.table()
+Using Breakpoints in Developer Tools
+Unit Testing in JavaScript
+Jest, Mocha, Chai (Testing frameworks)
+
+22. JavaScript in Node.js
+Node.js Basics
+File System (FS) Module
+HTTP Module
+Events and Streams in Node.js
+
+23. TypeScript (JavaScript Superset)
+Strong Typing and Interfaces
+TypeScript Classes and Decorators
+Generics
+
+24. Performance Optimization
+Debouncing and Throttling
+Lazy Loading
+Minimizing Reflows and Repaints
+Efficient DOM Manipulation
+Memoization
+Event Delegation
+
+25. Security in JavaScript
+Cross-Site Scripting (XSS) Prevention
+Cross-Site Request Forgery (CSRF)
+Content Security Policy (CSP)
+HTTPS and SSL
+Input Sanitization
